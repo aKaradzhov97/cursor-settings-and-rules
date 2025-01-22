@@ -1,0 +1,62 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.fontSize": 13,
+  "editor.lineHeight": 22,
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.bracketPairColorization.enabled": false,
+  "editor.rulers": [120],
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "editor.codeActionsOnSave": {
+    "source.sortImports": "always",
+    "source.addMissingImports.ts": "always",
+    "source.organizeLinkDefinitions": "always"
+  },
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "files.autoSave": "onFocusChange",
+  "explorer.compactFolders": false,
+  "material-icon-theme.folders.theme": "classic",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "files.watcherExclude": {
+    "**/.next": true
+  },
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.expo": true,
+    "**/.next": true,
+    "**/.vscode": true,
+    "**/build": true,
+    "**/node_modules": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Webstorm New Dark",
+  "workbench.tree.enableStickyScroll": false,
+  "window.commandCenter": false,
+  "window.zoomLevel": 0.25
+}
